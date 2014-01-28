@@ -1,0 +1,43 @@
+# Antergos theme for SLiM.
+# Original theme was created and copyrighted by
+# Davide Dave and distributed under Creative Commons-by license
+# <http://creativecommons.org/licenses/by/3.0/>
+
+# Messages (ie: shutdown)
+msg_color               #ffffff
+msg_font                Bitstream Vera Sans:size=28:bold:dpi=75
+msg_x                   50%
+msg_y                   66%
+
+welcome_font            Bitstream Vera Sans:size=11:bold:dpi=75
+welcome_color				#ffffff
+welcome_x					50%
+welcome_y					130
+
+session_font            Bitstream Vera Sans:size=20:bold:dpi=75
+session_x					50%
+session_y					98%
+
+# valid values: stretch, tile
+background_style        stretch
+background_color        #137e0b
+
+# Input controls
+input_panel_x           50%
+input_panel_y           66%
+
+input_name_x            90
+input_name_y            101
+input_font          	Bitstream Vera Sans:size=18:dpi=75
+input_color           #000000
+
+# Username / password request
+username_font          	Bitstream Vera Sans:size=16:bold:dpi=75
+username_color        	#ffffff
+username_x              84
+username_y              50
+password_x              84
+password_y              50
+
+username_msg            Username:
+password_msg            Password:
